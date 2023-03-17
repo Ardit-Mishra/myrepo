@@ -1,0 +1,24 @@
+Log file generated.Number of reads before mapping:
+SRR5660030: 2262365
+SRR5660033: 2007387
+SRR5660044: 2734180
+SRR5660045: 2480426
+Number of reads after mapping:
+SRR5660030: 3
+SRR5660033: 3
+SRR5660044: 3
+SRR5660045: 3
+
+SPAdes command used: spades.py -k 77,99,127 -t 2 --only-assembler -1 SRR5660030_1.fastq -2 SRR5660030_2.fastq -1 SRR5660033_1.fastq -2 SRR5660033_2.fastq -1 SRR5660044_1.fastq -2 SRR5660044_2.fastq -1 SRR5660045_1.fastq -2 SRR5660045_2.fastq -o assemblyThere are 106 contigs > 1000 bp in the assembly.
+There are 178829 bp in the assembly.
+The longest contig is NODE_1_length_9848_cov_138.408497 with length 9848Subject accession	Percent identity	Alignment length	Start of alignment in query	End of alignment in query	Start of alignment in subject	End of alignment in subject	Bit score	E-value	Subject Title
+KF297339,100.000,9848,1,9848,71026,61179,18186,0.0,Human herpesvirus 5 strain TB40/E clone Lisa, complete genome
+MW439039,100.000,9848,1,9848,70425,60578,18186,0.0,Human betaherpesvirus 5 strain TB40/EE
+MW439038,100.000,9848,1,9848,70425,60578,18186,0.0,Human betaherpesvirus 5 strain TB40/EF
+EF999921,100.000,9848,1,9848,103067,93220,18186,0.0,Human herpesvirus 5 strain TB40/E clone TB40-BAC4, complete sequence
+KX544839,99.980,9848,1,9848,103047,93202,18173,0.0,Human betaherpesvirus 5 isolate TB40-E_UNC
+MT044484,99.970,9848,1,9848,70378,60531,18170,0.0,Human betaherpesvirus 5 strain HAN-SOT4
+KP745642,99.838,9848,1,9848,70350,60503,18098,0.0,Human herpesvirus 5 strain CZ/1/2012, complete genome
+MT044477,99.827,9848,1,9848,70297,60450,18092,0.0,Human betaherpesvirus 5 strain GLA-SOT4
+KP745692,99.827,9848,1,9848,70404,60557,18092,0.0,Human herpesvirus 5 strain BE/3/2012, complete genome
+KP745666,99.827,9848,1,9848,70510,60663,18092,0.0,Human herpesvirus 5 strain BE/7/2012, complete genome
